@@ -9,3 +9,5 @@ Virtual Env.
   source .venv/bin/activate
   pip install --upgrade pip
   pip install -r requirements.txt
+  
+ for further programs update requirements.txt and recreate venv or download manually 
