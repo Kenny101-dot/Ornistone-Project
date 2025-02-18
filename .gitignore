@@ -141,3 +141,5 @@ data/
 *.zip
 
 geopandas_venv/
+
+librosa_env/
