@@ -137,7 +137,7 @@ __MACOSX
 
 # data folder
 data/
-Data/
 *.csv
 *.zip
+
 geopandas_venv/
