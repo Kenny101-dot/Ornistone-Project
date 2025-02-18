@@ -1,0 +1,11 @@
+numpy>=1.23.5
+scipy>=1.2.0
+scikit-learn>=0.20.0
+joblib>=0.14.0
+decorator>=4.3.0
+soundfile>=0.10.0
+resampy>=0.2.2
+numba>=0.51.0
+pooch>=1.0.0
+packaging>=20.0
+soxr>=0.3.0
