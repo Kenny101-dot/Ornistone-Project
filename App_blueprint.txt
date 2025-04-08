@@ -57,11 +57,25 @@ way to save all collected data into our dataset, whilst every user is able to do
 
 
 now for the presentation: make a better map - bigger legend, lighter map and bigger dots, different green
-
+ 
 Data Challenges: Less text!!!! 
 
 App: make a video on how it works, if the app is not working
 
 change the plots that you are showing, they do not say enough, 
 new ideas for plots: distribution of endangerment statuses
+
+
+Kaggle slide
+
+Why dont we do birdclef? This is a capstone project and we are 
+
+
+another plot for all species distr. by IUCN
+
+on the baseline model: make a circle (we only want this!)
+
+fully connected layer 
+
+duck beak!
 
